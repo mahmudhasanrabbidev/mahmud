@@ -1,0 +1,17 @@
+.container-carousel{
+  background-color: #FEEAE9;  
+  padding: 20px 40px;
+  margin: 100px;
+}
+.buy-now-button{
+    background-color: blueviolet;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.price{
+    color: red;
+    font-weight: bold;
+
+}
