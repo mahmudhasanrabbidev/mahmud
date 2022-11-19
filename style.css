@@ -1,7 +1,8 @@
 .container-carousel{
   background-color: #FEEAE9;  
   padding: 20px 40px;
-  margin: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 .buy-now-button{
     background-color: blueviolet;
@@ -14,4 +15,26 @@
     color: red;
     font-weight: bold;
 
+}
+.cat1{
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat2{
+  background-color: purple;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat3{
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categories-section h1{
+  color: white;
+  font-size: 40px;
+}
+.categories-section img{
+  max-width: 100px;
 }
