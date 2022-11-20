@@ -1,5 +1,7 @@
 .container-carousel{
   background-color: #FEEAE9;  
+}
+.container{
   padding: 20px 40px;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -42,4 +44,12 @@ img{
   border: none;
   border-radius: 10px;
   box-shadow: 5px 5px 10px lightgray;
+}
+.menu{
+  padding: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.orange-bg{
+  background-color: #FEEAE9;
 }
